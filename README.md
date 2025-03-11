@@ -4,12 +4,15 @@
 </p>
 
 <!-- ASCII Logo -->
-___.               .___             
+
+```
+  ___.               .___             
 \_ |__    ____   __| _/____ _______ 
  | __ \  / ___\ / __ |\__  \\_  __ \
  | \_\ \/ /_/  > /_/ | / __ \|  | \/
  |___  /\___  /\____ |(____  /__|   
      \//_____/      \/     \/       
+```
 
 <!-- Badges -->
 <p align="center">
@@ -32,8 +35,3 @@ ___.               .___
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgdar&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
-
----
-
----
-
