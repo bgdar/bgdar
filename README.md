@@ -14,20 +14,13 @@
      \//_____/      \/     \/       
     
 </pre>
+<br>
+```text
+JavaScript        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  35%
+Python            ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  30%
+GoLang            ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  20%
+Rust              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  5%
+Zig               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  2%
+```
 
-<p style="color: yellow; font-size: 18px;">JavaScript ##########................................................ 35%</p>
-<p style="color: #4CAF50; font-size: 18px;">Python ########..................................................... 30%</p>
-<p style="color: #00A9F4; font-size: 18px;">GoLang #####........................................................ 20%</p>
-<p style="color: #FF7F50; font-size: 18px;">Rust ##............................................................. 5%</p>
-<p style="color: #E6007A; font-size: 18px;">Zig . .............................................................. 2%</p>
 
-</div>
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bgdar&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bgdar&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-</p>
