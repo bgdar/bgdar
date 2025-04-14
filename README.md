@@ -12,20 +12,16 @@
  | \_\ \/ /_/  > /_/ | / __ \|  | \/
  |___  /\___  /\____ |(____  /__|   
      \//_____/      \/     \/       
+    
 </pre>
+
+<p style="color: yellow; font-size: 18px;">JavaScript ##########................................................ 35%</p>
+<p style="color: #4CAF50; font-size: 18px;">Python ########..................................................... 30%</p>
+<p style="color: #00A9F4; font-size: 18px;">GoLang #####........................................................ 20%</p>
+<p style="color: #FF7F50; font-size: 18px;">Rust ##............................................................. 5%</p>
+<p style="color: #E6007A; font-size: 18px;">Zig . .............................................................. 2%</p>
+
 </div>
-
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/bgdar">
-    <img src="https://komarev.com/ghpvc/?username=bgdar&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/bgdar?tab=followers">
-    <img src="https://img.shields.io/github/followers/bgdar?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Stats  
 
@@ -34,5 +30,4 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bgdar&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgdar&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
