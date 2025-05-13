@@ -25,3 +25,14 @@ Zig               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 <!--END_SECTION:waka-->
 
+<!--Pacman add-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bgdar/bgdar/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bgdar/bgdar/output/pacman-contribution-graph.svg" />
+  <img
+    alt="Pac-Man GitHub Contribution Graph"
+    src="https://raw.githubusercontent.com/bgdar/bgdar/output/pacman-contribution-graph.svg"
+    style="width: 100%; border-radius: 12px; box-shadow: 0 6px 24px rgba(0,255,0,0.15); margin-top: 20px;"
+  />
+</picture>
+
