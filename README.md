@@ -2,7 +2,6 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=50&lines=Hey,+I'm+dar!;Welcome+to+my+GitHub!;I+love+coding+and+tech!;Turning+coffee+into+code!;Keep+coding,+keep+growing!;Tech+is+limitless!" 
-    style="border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" 
   />
 </p>
 
@@ -29,7 +28,7 @@ Python        30 hrs 28 mins    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀
 GoLang        20 hrs 18 mins    ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  20%
 Rust          10 hrs 9  mins    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  10%
 Zig           5  hrs 5  mins    ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5%
-c++           2  hrs 22 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  2.3%
+c++           2  hrs 22 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2%
 ```
 <!--END_SECTION:waka-->
 
